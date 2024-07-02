@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyashetty2503&label=Profile%20views&color=0e75b6&style=flat" alt="ramyashetty2503" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramyashetty2503?tab=repositories](https://github.com/ramyashetty2503?tab=repositories)
+- 👨‍💻 All of my projects are available at [githubrepository](https://github.com/ramyashetty2503?tab=repositories)
 
 - 📫 How to reach me **shettyramya2567gmail.com**
 
